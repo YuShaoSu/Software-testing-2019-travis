@@ -119,5 +119,5 @@ public class TestMultiplication {
 
 		assertEquals(expectedANS, actualANS);
 	}
-	
+   	
 }
